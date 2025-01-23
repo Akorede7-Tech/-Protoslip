@@ -8,6 +8,7 @@ a{
     text-decoration:none;
     color:#6485ed;
     font-weight:350;
+    cursor: pointer;
 }
 section ul{
     margin-left:3%;
@@ -17,10 +18,12 @@ section{
 }
 .links li{
     font-size:120%;
+    cursor: pointer;
     color: #111;
 }
 h2{
     color: #6485ed;
+    cursor: default;
 }
 b{
     color: #000;
